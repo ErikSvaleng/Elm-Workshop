@@ -1,0 +1,12 @@
+
+findSuit : Card -> String
+findSuit card =
+    case card of
+        ( Heart, _ ) ->
+            "Hjerter"
+
+        ( Club, _ ) ->
+            "Kløver"
+
+        _ ->
+            "Ukjent"
