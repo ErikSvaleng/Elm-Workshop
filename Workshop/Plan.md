@@ -2,7 +2,9 @@
 
 1. Motivasjon - hvorfor Elm?
 1. Grunnleggende syntaks - hvordan Elm?
-1. Workshop: Installasjon og REPL
+1. Workshop: Installasjon og utforskning med REPL
+1. Typesystemet - the types are strong in this one!
+1. Workshop: Utforsk typer med REPL
 1. Webapplikasjoner med Elm - Elm to the people!
 1. Workshop: Et minimalt Elm-program
 1. MVU, Elm-Architecture, redux-pattern - kall det hva du vil
